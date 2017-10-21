@@ -35,3 +35,8 @@ p{
      width: 100px
      
  }
+ h2{color: cyan;}
+body {
+  font-family: sans-serif;
+  background-color: red;
+}
